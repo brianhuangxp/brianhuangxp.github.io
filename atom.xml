@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一叶扁舟</title>
+  
+  <subtitle>一叶扁舟</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://brianhuangxp.github.io/"/>
+  <updated>2018-10-27T06:31:19.000Z</updated>
+  <id>https://brianhuangxp.github.io/</id>
+  
+  <author>
+    <name>brian</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>N-Block Game</title>
+    <link href="https://brianhuangxp.github.io/2018/10/20/dojo/N_Block%E6%B8%B8%E6%88%8F/"/>
+    <id>https://brianhuangxp.github.io/2018/10/20/dojo/N_Block游戏/</id>
+    <published>2018-10-19T16:00:00.000Z</published>
+    <updated>2018-10-27T06:31:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文记录N-Block Game<br><a id="more"></a></p><h2 id="N-Block-Game"><a href="#N-Block-Game" class="headerlink" title="N-Block Game"></a>N-Block Game</h2><iframe src="https://brianhuangxp.github.io/my-dojo/html/arithmetic/nBlock/" width="100%" height="550px" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文记录N-Block Game&lt;br&gt;
+    
+    </summary>
+    
+      <category term="dojo" scheme="https://brianhuangxp.github.io/categories/dojo/"/>
+    
+    
+      <category term="html" scheme="https://brianhuangxp.github.io/tags/html/"/>
+    
+      <category term="game" scheme="https://brianhuangxp.github.io/tags/game/"/>
+    
+      <category term="dojo" scheme="https://brianhuangxp.github.io/tags/dojo/"/>
+    
+      <category term="arithmetic" scheme="https://brianhuangxp.github.io/tags/arithmetic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物体运动效果</title>
+    <link href="https://brianhuangxp.github.io/2018/09/22/css3%E5%8A%A8%E7%94%BB/%E8%BF%90%E5%8A%A8%E6%95%88%E6%9E%9C/"/>
+    <id>https://brianhuangxp.github.io/2018/09/22/css3动画/运动效果/</id>
+    <published>2018-09-21T16:00:00.000Z</published>
+    <updated>2018-10-27T10:40:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录css3常见物体运动效果<br><a id="more"></a></p><h2 id="小猫-》-link"><a href="#小猫-》-link" class="headerlink" title="小猫 =》 link"></a>小猫 =》 <a href="https://huangking.gitee.io/css3-animat/running/runCat/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/running/runCat/" width="100%" height="220px" frameborder="0" allowfullscreen></iframe><h2 id="小狗-》-link"><a href="#小狗-》-link" class="headerlink" title="小狗 =》 link"></a>小狗 =》 <a href="https://huangking.gitee.io/css3-animat/running/runDog/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/running/runDog/" width="100%" height="400px" frameborder="0" allowfullscreen></iframe><h2 id="闹钟-》-link"><a href="#闹钟-》-link" class="headerlink" title="闹钟 =》 link"></a>闹钟 =》 <a href="https://huangking.gitee.io/css3-animat/running/clock/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/running/clock/" width="100%" height="300px" frameborder="0" allowfullscreen></iframe><h2 id="footprint-》-link"><a href="#footprint-》-link" class="headerlink" title="footprint =》 link"></a>footprint =》 <a href="https://huangking.gitee.io/css3-animat/running/footprint/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/running/footprint/" width="100%" height="150px" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录css3常见物体运动效果&lt;br&gt;
+    
+    </summary>
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/categories/css3/"/>
+    
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/tags/css3/"/>
+    
+      <category term="animation" scheme="https://brianhuangxp.github.io/tags/animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>23种设计模式总结</title>
+    <link href="https://brianhuangxp.github.io/2018/09/21/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93/"/>
+    <id>https://brianhuangxp.github.io/2018/09/21/设计模式/23种设计模式总结/</id>
+    <published>2018-09-20T16:00:00.000Z</published>
+    <updated>2018-10-27T12:56:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文记录23种设计模式总结，以及设计原则。<br><a id="more"></a></p><h1 id="单例模式（Singleton-Pattern）"><a href="#单例模式（Singleton-Pattern）" class="headerlink" title="单例模式（Singleton Pattern）"></a>单例模式（Singleton Pattern）</h1><h2 id="定义："><a href="#定义：" class="headerlink" title="定义："></a>定义：</h2><p>Ensure a class has only one instance, and provide a global point of access to it.（确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例。）</p><h2 id="通用代码：（是线程安全的）"><a href="#通用代码：（是线程安全的）" class="headerlink" title="通用代码：（是线程安全的）"></a>通用代码：（是线程安全的）</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span> </span>&#123;</span><br><span class="line">     <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">final</span> Singleton singleton = <span class="keyword">new</span> Singleton();</span><br><span class="line"><span class="comment">//限制产生多个对象</span></span><br><span class="line">     <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span></span>&#123;</span><br><span class="line">     &#125;</span><br><span class="line">     <span class="comment">//通过该方法获得实例对象</span></span><br><span class="line">     <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getSingleton</span><span class="params">()</span></span>&#123;</span><br><span class="line">             <span class="keyword">return</span> singleton;</span><br><span class="line">     &#125;  </span><br><span class="line">     <span class="comment">//类中其他方法，尽量是static</span></span><br><span class="line">     <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">doSomething</span><span class="params">()</span></span>&#123;</span><br><span class="line">     &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="使用场景在整个项"><a href="#使用场景在整个项" class="headerlink" title="使用场景在整个项"></a>使用场景在整个项</h2><ul><li>要求生成唯一序列号的环境；</li><li>在整个项目中需要一个共享访问点或共享数据，例如一个Web页面上的计数器，可以不用把每次刷新都记录到数据库中，使用单例模式保持计数器的值，并确保是线程安全的；</li><li>创建一个对象需要消耗的资源过多，如要访问IO和数据库等资源；</li><li>需要定义大量的静态常量和静态方法（如工具类）的环境，可以采用单例模式（当然，也可以直接声明为static的方式）。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文记录23种设计模式总结，以及设计原则。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="设计模式" scheme="https://brianhuangxp.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="https://brianhuangxp.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="java" scheme="https://brianhuangxp.github.io/tags/java/"/>
+    
+      <category term="模式" scheme="https://brianhuangxp.github.io/tags/%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown example</title>
+    <link href="https://brianhuangxp.github.io/2018/09/20/markdown.example/"/>
+    <id>https://brianhuangxp.github.io/2018/09/20/markdown.example/</id>
+    <published>2018-09-19T16:00:00.000Z</published>
+    <updated>2018-10-27T12:56:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文记录标准Markdown document实例。<br><a id="more"></a></p><h1 id="Text"><a href="#Text" class="headerlink" title="Text"></a>Text</h1><p>Here is a paragraph with bold text. <strong>This is some bold text.</strong> Here is a<br>paragraph with bold text. <strong>This is also some bold text.</strong></p><p>Here is another one with italic text. <em>This is some italic text.</em> Here is<br>another one with italic text. <em>This is some italic text.</em></p><p>Here is another one with struckout text. <del>This is some struckout text.</del></p><h1 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h1><p>Autolink: <a href="http://www.baidu.com" target="_blank" rel="noopener">http://www.baidu.com</a></p><p>Link: <a href="http://www.baidu.com" target="_blank" rel="noopener">Example</a></p><p>Reference style <a href="http://www.baidu.com" title="Example" target="_blank" rel="noopener">link</a>.</p><h1 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h1><p>Image: <img src="http://mat1.gtimg.com/www/images/qq2012/qqlogo_1x.png" alt="My image"></p><h1 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h1><h1 id="First-level-title"><a href="#First-level-title" class="headerlink" title="First level title"></a>First level title</h1><h2 id="Second-level-title"><a href="#Second-level-title" class="headerlink" title="Second level title"></a>Second level title</h2><h3 id="Third-level-title"><a href="#Third-level-title" class="headerlink" title="Third level title"></a>Third level title</h3><h4 id="Fourth-level-title"><a href="#Fourth-level-title" class="headerlink" title="Fourth level title"></a>Fourth level title</h4><h5 id="Fifth-level-title"><a href="#Fifth-level-title" class="headerlink" title="Fifth level title"></a>Fifth level title</h5><h6 id="Sixth-level-title"><a href="#Sixth-level-title" class="headerlink" title="Sixth level title"></a>Sixth level title</h6><h3 id="Title-with-link"><a href="#Title-with-link" class="headerlink" title="Title with link"></a>Title with <a href="http://localhost" target="_blank" rel="noopener">link</a></h3><h3 id="Title-with"><a href="#Title-with" class="headerlink" title="Title with "></a>Title with <img src="http://mat1.gtimg.com/www/images/qq2012/qqlogo_1x.png" alt="image"></h3><h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">This</span><br><span class="line">  is</span><br><span class="line">    code</span><br><span class="line">      fence</span><br></pre></td></tr></table></figure><p>Inline <code>code span in a</code> paragraph.</p><p>This is a code block:</p><pre><code>/** * Sorts the specified array into ascending numerical order. * * &lt;p&gt;Implementation note: The sorting algorithm is a Dual-Pivot Quicksort * by Vladimir Yaroslavskiy, Jon Bentley, and Joshua Bloch. This algorithm * offers O(n log(n)) performance on many data sets that cause other * quicksorts to degrade to quadratic performance, and is typically * faster than traditional (one-pivot) Quicksort implementations. * * @param a the array to be sorted */public static void sort(byte[] a) {    DualPivotQuicksort.sort(a);}</code></pre><h2 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a>Quotes</h2><blockquote><p>This is the first level of quoting.</p><blockquote><p>This is nested blockquote.</p></blockquote><p>Back to the first level.</p></blockquote><blockquote><p>A list within a blockquote:</p><ul><li>asterisk 1</li><li>asterisk 2</li><li>asterisk 3</li></ul></blockquote><blockquote><p>Formatting within a blockquote:</p><h3 id="header"><a href="#header" class="headerlink" title="header"></a>header</h3><p>Link: <a href="http://example.com" target="_blank" rel="noopener">Example</a></p></blockquote><h2 id="Html"><a href="#Html" class="headerlink" title="Html"></a>Html</h2><p>This is inline <span>html.<br>And this is an html block.</span></p><table><br>  <tr><br>    <th>Column 1</th><br>    <th>Column 2</th><br>  </tr><br>  <tr><br>    <td>Row 1 Cell 1</td><br>    <td>Row 1 Cell 2</td><br>  </tr><br>  <tr><br>    <td>Row 2 Cell 1</td><br>    <td>Row 2 Cell 2</td><br>  </tr><br></table><h2 id="Horizontal-rules"><a href="#Horizontal-rules" class="headerlink" title="Horizontal rules"></a>Horizontal rules</h2><hr><hr><hr><h2 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h2><p>Unordered list:</p><ul><li>asterisk 1</li><li>asterisk 2</li><li>asterisk 3</li></ul><p>Ordered list:</p><ol><li>First</li><li>Second</li><li>Third</li></ol><p>Mixed:</p><ol><li>First</li><li>Second:<ul><li>Fee</li><li>Fie</li><li>Foe</li></ul></li><li>Third</li></ol><p>Tables:</p><table><thead><tr><th>Header 1</th><th>Header 2</th></tr></thead><tbody><tr><td>Data 1</td><td>Data 2</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文记录标准Markdown document实例。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="markdown" scheme="https://brianhuangxp.github.io/categories/markdown/"/>
+    
+    
+      <category term="markdown" scheme="https://brianhuangxp.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>flappy brid Game</title>
+    <link href="https://brianhuangxp.github.io/2018/09/20/game/flappybird/"/>
+    <id>https://brianhuangxp.github.io/2018/09/20/game/flappybird/</id>
+    <published>2018-09-19T16:00:00.000Z</published>
+    <updated>2018-10-27T12:56:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="flappy-brid-Game"><a href="#flappy-brid-Game" class="headerlink" title="flappy brid Game"></a>flappy brid Game</h2><iframe src="https://huangking.gitee.io/css3-animat/flappybird" width="450px" height="550px" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;flappy-brid-Game&quot;&gt;&lt;a href=&quot;#flappy-brid-Game&quot; class=&quot;headerlink&quot; title=&quot;flappy brid Game&quot;&gt;&lt;/a&gt;flappy brid Game&lt;/h2&gt;&lt;iframe src=&quot;http
+      
+    
+    </summary>
+    
+      <category term="html" scheme="https://brianhuangxp.github.io/categories/html/"/>
+    
+    
+      <category term="html" scheme="https://brianhuangxp.github.io/tags/html/"/>
+    
+      <category term="game" scheme="https://brianhuangxp.github.io/tags/game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css3滚动文字</title>
+    <link href="https://brianhuangxp.github.io/2018/09/20/css3%E5%8A%A8%E7%94%BB/%E6%BB%9A%E5%8A%A8%E6%96%87%E5%AD%97/"/>
+    <id>https://brianhuangxp.github.io/2018/09/20/css3动画/滚动文字/</id>
+    <published>2018-09-19T16:00:00.000Z</published>
+    <updated>2018-10-27T10:46:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录css3常见滚动文字效果<br><a id="more"></a></p><h2 id="跑马灯效果-》-link"><a href="#跑马灯效果-》-link" class="headerlink" title="跑马灯效果 =》 link"></a>跑马灯效果 =》 <a href="https://huangking.gitee.io/css3-animat/rolling/rolling-words/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/rolling/rolling-words/" width="100%" height="60px" frameborder="0" allowfullscreen></iframe><h2 id="告白墙效果-》-link"><a href="#告白墙效果-》-link" class="headerlink" title="告白墙效果 =》 link"></a>告白墙效果 =》 <a href="https://huangking.gitee.io/css3-animat/rolling/rolling-wall/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/rolling/rolling-wall/" width="100%" height="650px" frameborder="0" allowfullscreen></iframe><h2 id="字体路径-》-link"><a href="#字体路径-》-link" class="headerlink" title="字体路径 =》 link"></a>字体路径 =》 <a href="https://huangking.gitee.io/css3-animat/pathEffects/wordPath/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/pathEffects/wordPath/" width="100%" height="300px" frameborder="0" allowfullscreen></iframe><h2 id="3D文字效果-》-link"><a href="#3D文字效果-》-link" class="headerlink" title="3D文字效果 =》 link"></a>3D文字效果 =》 <a href="https://huangking.gitee.io/css3-animat/words/3dWords/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/words/3dWords/" width="100%" height="300px" frameborder="0" allowfullscreen></iframe><h2 id="文字光照效果-》-link"><a href="#文字光照效果-》-link" class="headerlink" title="文字光照效果 =》 link"></a>文字光照效果 =》 <a href="https://huangking.gitee.io/css3-animat/words/lightWords/" target="_blank" rel="noopener">link</a></h2><iframe src="https://huangking.gitee.io/css3-animat/words/lightWords/" width="765px" height="900px" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录css3常见滚动文字效果&lt;br&gt;
+    
+    </summary>
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/categories/css3/"/>
+    
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/tags/css3/"/>
+    
+      <category term="animation" scheme="https://brianhuangxp.github.io/tags/animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo tags example</title>
+    <link href="https://brianhuangxp.github.io/2018/08/20/hexo.example/"/>
+    <id>https://brianhuangxp.github.io/2018/08/20/hexo.example/</id>
+    <published>2018-08-19T16:00:00.000Z</published>
+    <updated>2018-10-27T12:56:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文汇总Hexo官方以及自定义标签</p><h1 id="官方支持标签"><a href="#官方支持标签" class="headerlink" title="官方支持标签"></a>官方支持标签</h1><h2 id="Block-Quote"><a href="#Block-Quote" class="headerlink" title="Block Quote"></a>Block Quote</h2><h3 id="Interface"><a href="#Interface" class="headerlink" title="Interface"></a>Interface</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote [author[, source]] [link] [source_link_title] %&#125;</span><br><span class="line">content</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><h4 id="标准"><a href="#标准" class="headerlink" title="标准"></a>标准</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote %&#125;</span><br><span class="line">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><h4 id="引用来着一本书"><a href="#引用来着一本书" class="headerlink" title="引用来着一本书"></a>引用来着一本书</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote David Levithan, Wide Awake %&#125;</span><br><span class="line">Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><h4 id="引用来着Twitter"><a href="#引用来着Twitter" class="headerlink" title="引用来着Twitter"></a>引用来着Twitter</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% blockquote @DevDocs https://twitter.com/devdocs/status/356095192085962752 %&#125;</span><br><span class="line">NEW: DevDocs now comes with syntax highlighting. http://devdocs.io</span><br><span class="line">&#123;% endblockquote %&#125;</span><br></pre></td></tr></table></figure><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="noopener">http://devdocs.io</a></p><footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="noopener">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote><h2 id="Code-Block"><a href="#Code-Block" class="headerlink" title="Code Block"></a>Code Block</h2><h3 id="Interface-1"><a href="#Interface-1" class="headerlink" title="Interface"></a>Interface</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock [title] [lang:language] [url] [link text] %&#125;</span><br><span class="line">code snippet</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure><h3 id="Example-1"><a href="#Example-1" class="headerlink" title="Example"></a>Example</h3><h4 id="标准-1"><a href="#标准-1" class="headerlink" title="标准"></a>标准</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock %&#125;</span><br><span class="line">alert(&apos;Hello World!&apos;);</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World!&apos;);</span><br></pre></td></tr></table></figure><h4 id="带title和url"><a href="#带title和url" class="headerlink" title="带title和url"></a>带title和url</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% codeblock Array.map https://hexo.io/docs/tag-plugins.html#Code-Block Code-Block%&#125;</span><br><span class="line">array.map(callback[, thisArg])</span><br><span class="line">&#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><figcaption><span>Array.map</span><a href="https://hexo.io/docs/tag-plugins.html#Code-Block" target="_blank" rel="noopener">Code-Block</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array.map(callback[, thisArg])</span><br></pre></td></tr></table></figure><blockquote><figure class="highlight js"><figcaption><span>title</span><a href="https://hexo.io/docs/tag-plugins.html#Code-Block" target="_blank" rel="noopener">Code-Block</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt;<span class="number">1</span></span><br><span class="line">&gt;</span><br></pre></td></tr></table></figure></blockquote><figure class="highlight js"><figcaption><span>title</span><a href="https://hexo.io/docs/tag-plugins.html#Code-Block" target="_blank" rel="noopener">Code-Block</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">1</span></span><br></pre></td></tr></table></figure><h2 id="iframe"><a href="#iframe" class="headerlink" title="iframe"></a>iframe</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% iframe url [width] [height] %&#125;</span><br></pre></td></tr></table></figure><iframe src="http://www.baidu.com" width="100%" height="50px" frameborder="0" allowfullscreen></iframe><h2 id="Image"><a href="#Image" class="headerlink" title="Image"></a>Image</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% img [class names] /path/to/image [width] [height] [title text [alt text]] %&#125;</span><br></pre></td></tr></table></figure><img src="//www.baidu.com/img/baidu_jgylogo3.gif" title="title"><h2 id="Link"><a href="#Link" class="headerlink" title="Link"></a>Link</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% link text url [external] [title] %&#125;</span><br></pre></td></tr></table></figure><a href="http://www.baidu.com" title="百度title" target="_blank" rel="noopener">百度</a><h2 id="Include-Code"><a href="#Include-Code" class="headerlink" title="Include Code"></a>Include Code</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% include_code [title] [lang:language] path/to/file %&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><figcaption><span>title</span><a href="/downloads/code/example.txt">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Here is the example message.</span><br></pre></td></tr></table></figure><p><img src="//www.baidu.com/img/baidu_jgylogo3.gif" alt="alt"></p><h1 id="自定义标签"><a href="#自定义标签" class="headerlink" title="自定义标签"></a>自定义标签</h1><h2 id="embed"><a href="#embed" class="headerlink" title="embed"></a>embed</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;%embed src [width] [height]%&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&#123;%embed swf/xfish.swf%&#125;</span><br><span class="line">or</span><br><span class="line">&#123;%embed /assets/swf/xfish.swf 100% auto%&#125;</span><br><span class="line">or</span><br><span class="line">&#123;%embed http://xxxxx/assets/swf/xfish.swf%&#125;</span><br><span class="line">or</span><br><span class="line">&#123;%embed //xxxxx/assets/swf/xfish.swf%&#125;</span><br></pre></td></tr></table></figure><embed src="/assets/swf/xfish.swf" width="100%" height="auto"><h1 id="自定义filter"><a href="#自定义filter" class="headerlink" title="自定义filter"></a>自定义filter</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">before_post_render filter</span><br><span class="line">@&#123;xxx&#125; 将被替换。其中xxxx：为_config.yml的commonParametersFilter key替换为value</span><br><span class="line"></span><br><span class="line">例如</span><br><span class="line">@&#123;qiNiu&#125;/image/blog-bg.jpg</span><br></pre></td></tr></table></figure><p>过滤后: <a href="http://pgzciqfe6.bkt.clouddn.com/image/blog-bg.jpg" target="_blank" rel="noopener">http://pgzciqfe6.bkt.clouddn.com/image/blog-bg.jpg</a><br><img src="http://pgzciqfe6.bkt.clouddn.com/image/blog-bg.jpg" alt="test image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文汇总Hexo官方以及自定义标签&lt;/p&gt;
+&lt;h1 id=&quot;官方支持标签&quot;&gt;&lt;a href=&quot;#官方支持标签&quot; class=&quot;headerlink&quot; title=&quot;官方支持标签&quot;&gt;&lt;/a&gt;官方支持标签&lt;/h1&gt;&lt;h2 id=&quot;Block-Quote&quot;&gt;&lt;a href=&quot;#B
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://brianhuangxp.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://brianhuangxp.github.io/tags/hexo/"/>
+    
+      <category term="hexo-tag" scheme="https://brianhuangxp.github.io/tags/hexo-tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css3卷轴动画</title>
+    <link href="https://brianhuangxp.github.io/2018/08/20/css3%E5%8A%A8%E7%94%BB/%E6%BB%9A%E8%BD%B4%E5%8A%A8%E7%94%BB/"/>
+    <id>https://brianhuangxp.github.io/2018/08/20/css3动画/滚轴动画/</id>
+    <published>2018-08-19T16:00:00.000Z</published>
+    <updated>2018-10-27T12:56:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文记录css3卷轴动画<br><a id="more"></a></p><h2 id="卷轴动画赏析"><a href="#卷轴动画赏析" class="headerlink" title="卷轴动画赏析"></a>卷轴动画赏析</h2><h3 id="卷轴缩放动画-》-link"><a href="#卷轴缩放动画-》-link" class="headerlink" title="卷轴缩放动画 =》 link"></a>卷轴缩放动画 =》 <a href="https://huangking.gitee.io/css3-animat/rolling/rolling-axle/index.html" target="_blank" rel="noopener">link</a></h3><iframe src="https://huangking.gitee.io/css3-animat/rolling/rolling-axle/index.html" width="100%" height="400px" frameborder="0" allowfullscreen></iframe><center>点击触发卷动动画，再点击一次触发展开动画</center><h3 id="卷轴无限动画-》-link"><a href="#卷轴无限动画-》-link" class="headerlink" title="卷轴无限动画 =》 link"></a>卷轴无限动画 =》 <a href="https://huangking.gitee.io/css3-animat/rolling/rolling-axle/index2.html" target="_blank" rel="noopener">link</a></h3><iframe src="https://huangking.gitee.io/css3-animat/rolling/rolling-axle/index2.html" width="100%" height="400px" frameborder="0" allowfullscreen></iframe><center>点击触发无限动画</center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文记录css3卷轴动画&lt;br&gt;
+    
+    </summary>
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/categories/css3/"/>
+    
+    
+      <category term="css3" scheme="https://brianhuangxp.github.io/tags/css3/"/>
+    
+      <category term="animation" scheme="https://brianhuangxp.github.io/tags/animation/"/>
+    
+  </entry>
+  
+</feed>
